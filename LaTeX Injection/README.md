@@ -84,6 +84,9 @@ If you get any LaTex error, consider using base64 to get the result without bad 
 \input{|"/bin/hostname"}
 ```
 
+
+
+
 ## Cross Site Scripting
 
 From [@EdOverflow](https://twitter.com/intigriti/status/1101509684614320130) 
